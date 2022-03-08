@@ -1,6 +1,6 @@
 <h1 align="left">Hi there 👋, welcome to my Github Profile. I'm Makavura 😎.</h1>
 
-<h3 align="left">A digital applications designer and developer based in Nairobi, Kenya.</h3>
+<h2 align="left">A digital applications designer and developer based in Nairobi, Kenya.</h3>
 
 ### About me
 My journey in software development has gifted me with the opportunity of working with and exchanging knowledge and ideas with different individuals and teams who have given me the appreciation of diversity(in thought and background), an appreciation of hard work and improvement through grit and the occassion coffee-side banter.
