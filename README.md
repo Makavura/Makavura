@@ -6,5 +6,3 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=makavura&show_icons=true&locale=en" alt="makavura" /></p>
-
-<p>&nbsp;<img align="left" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=makavura" alt="Coder's Rank Skills Chart" /></p>
