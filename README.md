@@ -10,7 +10,8 @@ My journey in software development has gifted me with the opportunity of working
 Non-technical Books/Courses that I have found transformative and essential for an appreciation of the craft of software development and it's multi-faceted nature are:
 - [Deep Work: Rules for Focused Success in a Distracted World](https://www.calnewport.com/books/deep-work/)
 - [Getting Things Done](https://gettingthingsdone.com/)
-- [Learning How To Learn]()
+- [Learning How To Learn](https://www.coursera.org/learn/learning-how-to-learn)
+  > [Presentation as a challenge on Teaching Others Learning Hot To learn](https://www.canva.com/design/DADtOO4YYrw/15xwT5czSEmr2RYYQ5nmjQ/view?utm_content=DADtOO4YYrw&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -64,3 +65,6 @@ Challenges & adaptations:
 
 ### Contact Me
 [LinkedIn](https://www.linkedin.com/in/makavuramughanga/)
+
+### My Resume
+[Resume](https://www.canva.com/design/DAE1NrU80rI/QoSBqp-47198SFVJKX4sWQ/view?utm_content=DAE1NrU80rI&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
