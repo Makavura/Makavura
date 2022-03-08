@@ -57,11 +57,8 @@ Challenges & adaptations:
   > The challenge centered around learning on the fly while building a project. This posed the challenge of having different preferences as well as individuals who had not had much experience with any programming language. A choice to declare easily learnable languages and stacks as well as their related frameworks and having team members raise questions regarding each choice while those who had the knowledge and experience would share their thoughts as well.  
 - Aiding self learning
  > Transparency, an equal voice for everyone and collaboration played a big role. Due to the varied skill sets, some concepts had to be guided from scratch, e.g git and version control. However, this provided an opportunity for knowledge sharing as well as motivation(all of us who knew things once did not) and guidance on approaches enabled self learning with minimal of the usual pitfalls; impostor syndrome, too much too fast, scattered incomplete information that confuses and a lack of a community to champion learning. 
-- Contributing within timelines: 
- > 
 - Contributing while managing previous engagements: 
  > Ensuring that a complete/concise of tasks and deliverables of previous engagements were clear as well as making time for new issues. Due to the remote nature    of the challenge and my role, I mostly was needed to be available for communication and any delays were not to  exceed 3o minutes to ensure smooth sailing. This presented the opportunity of managing knowledge(for when needed in different forms), anticipating requests/blockers, timely monitoring and prioritization of next tasks.    
-
 - Finishing strong:
-
+ > It was an uphill task, however we deployed. What did we learn?  The power of grit and collaboration, the choice not to be the weakest link in the team through work and a determination to always level up. What shortcomings did we overcome? Being partly an IoT project, resources were an issue, however individuals came through and made the project a success.
 
