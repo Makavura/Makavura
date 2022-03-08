@@ -66,5 +66,9 @@ Challenges & adaptations:
 ### Contact Me
 [LinkedIn](https://www.linkedin.com/in/makavuramughanga/)
 
+## Other Skills & Tools
+- User interface mockup using [Figma](https://www.figma.com)
+- Presentation Preparation using [Canva](https://www.canva.com/)
+
 ### My Resume
 [Resume](https://www.canva.com/design/DAE1NrU80rI/QoSBqp-47198SFVJKX4sWQ/view?utm_content=DAE1NrU80rI&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
