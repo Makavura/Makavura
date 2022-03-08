@@ -62,3 +62,5 @@ Challenges & adaptations:
 - Finishing strong:
   > It was an uphill task, however we deployed. What did we learn?  The power of grit and collaboration, the choice not to be the weakest link in the team through work and a determination to always level up. What shortcomings did we overcome? Being partly an IoT project, resources were an issue, however individuals came through and made the project a success.
 
+### Contact Me
+[LinkedIn](https://www.linkedin.com/in/makavuramughanga/)
