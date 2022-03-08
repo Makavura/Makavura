@@ -51,11 +51,14 @@ The team was diverse in terms of experience, skillsets and time availability. Ad
 I was voted team lead of team 134 by the team members, 8 in total. This involved several responsibilities as well as ensuring that the newly formed team moved together and fast.
 
 Challenges & adaptations:
-- Team formation: 
-- Settling on a stack: The challenge centered around learning on the fly while building a project. This posed the challenge of having different preferences as well as individuals who had not had much experience with any programming language. A choice to declare easily learnable languages and stacks as well as their related frameworks and having team members raise questions regarding each choice while those who had the knowledge and experience would share their thoughts as well.  
-- Aiding self learning: 
+- Team formation
+  > While team members had been declared, there was yet to be cohesion and an understanding of each other. This was before I was chosen team lead. Having been through  bootcamps with a focus on agile and diversity, there were a couple of introductory elements I had observed, the only issue was how to adapt this to a remote environment. So, after doing introductions myself and proposing that we all do so, the conversation seemed to guide itself in that the important things bubbled up to the surface; combine this with an eagerness for the remote experience we eventually jumped on a call before getting to the nitty gritties of work several hours later.
+- Settling on a stack
+  > The challenge centered around learning on the fly while building a project. This posed the challenge of having different preferences as well as individuals who had not had much experience with any programming language. A choice to declare easily learnable languages and stacks as well as their related frameworks and having team members raise questions regarding each choice while those who had the knowledge and experience would share their thoughts as well.  
+- Aiding self learning
+ > Transparency, an equal voice for everyone and collaboration played a big role. Due to the varied skill sets, some concepts had to be guided from scratch, e.g git and version control. However, this provided an opportunity for knowledge sharing as well as motivation(all of us who knew things once did not) and guidance on approaches enabled self learning with minimal of the usual pitfalls; impostor syndrome, too much too fast, scattered incomplete information that confuses and a lack of a community to champion learning. 
 - Contributing within timelines: 
-
+ > 
 - Contributing while managing previous engagements: 
  > Ensuring that a complete/concise of tasks and deliverables of previous engagements were clear as well as making time for new issues. Due to the remote nature    of the challenge and my role, I mostly was needed to be available for communication and any delays were not to  exceed 3o minutes to ensure smooth sailing. This presented the opportunity of managing knowledge(for when needed in different forms), anticipating requests/blockers, timely monitoring and prioritization of next tasks.    
 
