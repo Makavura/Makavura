@@ -1,4 +1,4 @@
-<h1 align="left">Hi there 👋, welcome to my Github Profile. I'm Makavura 😎.</h1>
+<h1 align="left">Makavura Mughanga.</h1>
 
 <h2 align="left">A digital applications designer and developer based in Nairobi, Kenya.</h3>
 
