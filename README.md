@@ -1,3 +1,5 @@
 [Portfolio](https://makavura-github-io.web.app/)
 
-![image](https://github.com/Makavura/makavura.github.io/assets/39646663/16a76850-04fe-47ef-9e09-67504db19456)
+<img width="1170" height="765" alt="image" src="https://github.com/user-attachments/assets/6cdbba27-3f59-46e6-9104-e93036a1e350" />
+
+<img width="1170" height="765" alt="image" src="https://github.com/user-attachments/assets/21f892be-6202-4461-8089-eebbc782816d" />
